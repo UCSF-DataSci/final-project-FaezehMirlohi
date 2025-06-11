@@ -24,7 +24,7 @@ The dataset used for this project is CIFAR-100. It is a widely used benchmark da
 
 **Figure 1. CIFAR-100 Dataset Images**
 
-![](Screenshot%202025-05-30%20at%2014.49.21.png){width="190"}
+![](Screenshot%202025-05-30%20at%2014.49.21.png)
 
 ## **1.3 Method:** Knowledge Distillation From ResNet32x4 to CNN (with 4 layers)
 
@@ -98,11 +98,11 @@ Code dependencies included in requirements.txt are:
 
 **Figure 2. Training Loss Plot without Knowledge Distillation**
 
-![](Screenshot%202025-06-10%20at%2020.01.34.png){width="290"}
+![](Screenshot%202025-06-10%20at%2020.01.34.png)
 
 **Figure 3. Training Loss Plot with Knowledge Distillation**
 
-![](Screenshot%202025-06-10%20at%2020.02.24.png){width="301"}
+![](Screenshot%202025-06-10%20at%2020.02.24.png)
 
 8.  Then, all models, student without KD, student with KD and teacher model were tested on the test set and are reported below.
 
